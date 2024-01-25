@@ -1,0 +1,94 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Shopping Cart</title>
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="./css/cart.css">
+  </head>
+  <style type=text/css>
+    header {
+      background-color: #789461;
+      left: 0;
+      right: 0;
+      top: 5px;
+      height: 30px;
+      display: flex;
+      align-items: center;
+      box-shadow: 0 0 25px 0 #212529;
+    }
+
+    header * {
+      display: inline;
+    }
+
+    header li {
+      margin: 20px;
+    }
+  </style>
+  <style>
+    body {
+      background-color: #DBE7C9;
+      color: #294B29;
+    }
+
+    .dark-mode {
+      background-color: #393E46;
+      color: #DBE7C9;
+    }
+
+    .dark-mode .table {
+      color: #DBE7C9;
+    }
+  </style>
+
+<link rel="stylesheet" href="./css/toggle.css">
+
+  <script>
+    function darkmode() {
+      var element = document.body;
+      element.classList.toggle("dark-mode");
+    }
+  </script>
+  <header>
+    <nav>
+      <ul>
+        <li>
+          <ul class="tg-list">
+            <li class="tg-list-item">
+              <input class="tgl tgl-ios" id="cb2" onclick="darkmode()" type="checkbox"/>
+              <label class="tgl-btn" for="cb2"></label>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </nav>
+  </header>
+  <body>
+    <div class="container-fluid mt-5">
+      <h2 class="mb-5 text-center">Shopping Cart</h2>
+      <div class="row justify-content-center">
+        <div class="col-md-8">
+          <div class="table-responsive">
+            <table id="myTable" class="table">
+              <thead>
+                <tr>
+                  <th>Product</th>
+                  <th>Name</th>
+                  <th>Qty</th>
+                  <th>Price</th>
+                  <th class="text-right">
+                    <span id="amount" class="amount">Amount</span>
+                  </th>
+                </tr>
+              </thead>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <script src="./js/cart.js"></script>
+  </body>
+</html>
