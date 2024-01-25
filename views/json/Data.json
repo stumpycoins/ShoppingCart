@@ -1,0 +1,324 @@
+{
+	"ProductList":[
+	{
+		"Id":"R001",
+		"Type":"Rice",
+		"ImgUrl":"",
+		"Products":"புழுங்கல் அரிசி",
+		"Products_Desc":"Boiled Rice/Puzhungal Arisi",
+		"Quantity":["0.5","1.0","1.5","2.0"],
+		"Weight":"Kg",
+		"Price":"100"
+	},
+	{
+		"Id":"R002",
+		"Type":"Rice",
+		"ImgUrl":"",
+		"Products":"இட்லி அரிசி",
+		"Products_Desc":"Idli Rice/Idli Arisi",
+		"Quantity":["0.5","1.0","1.5","2.0"],
+		"Weight":"ltr",
+		"Price":""
+	},
+	{
+		"Id":"R003",
+		"Type":"Rice",
+		"ImgUrl":"",
+		"Products":"புழுங்கல் அரிசி",
+		"Products_Desc":"Boiled Rice/Puzhungal Arisi",
+		"Quantity":["0.5","1.0","1.5","2.0"],
+		"Weight":"Kg",
+		"Price":""
+	},
+	{
+		"Id":"R004",
+		"Type":"Rice",
+		"ImgUrl":"",
+		"Products":"பாஸ்மதி அரிசி",
+		"Products_Desc":"Basmati Rice",
+		"Quantity":["0.5","1.0","1.5","2.0"],
+		"Weight":"Kg",
+		"Price":""
+	},
+	{
+		"Id":"R005",
+		"Type":"Rice",
+		"ImgUrl":"",
+		"Products":"கவுனி அரிசி",
+		"Products_Desc":"Black Rice/Kavuni Arisi",
+		"Quantity":["0.5","1.0","1.5","2.0"],
+		"Weight":"Kg",
+		"Price":""
+	},
+	{
+		"Id":"R006",
+		"Type":"Rice",
+		"ImgUrl":"",
+		"Products":"சிகப்பரிசி",
+		"Products_Desc":"Red Puttu Rice/Sigappu Puttu Arisi",
+		"Quantity":["0.5","1.0","1.5","2.0"],
+		"Weight":"Kg",
+		"Price":""
+	},
+	{
+		"Id":"I001",
+		"Type":"Ingredients",
+		"ImgUrl":"",
+		"Products":"கோதுமை மாவு",
+		"Products_Desc":"Aashirvaad Atta/Goduma Mavu",
+		"Quantity":["0.5","1.0","1.5","2.0"],
+		"Weight":"Kg",
+		"Price":"0"
+},
+{
+		"Id":"I002",
+		"Type":"Ingredients",
+		"ImgUrl":"",
+		"Products":"மைதா மாவு",
+		"Products_Desc":"Maida/Maida Maavu",
+		"Quantity":["0.5","1.0","1.5","2.0"],
+		"Weight":"Kg",
+		"Price":"0"
+},
+{
+		"Id":"I003",
+		"Type":"Ingredients",
+		"ImgUrl":"",
+		"Products":"ராகி மாவு",
+		"Products_Desc":"Ragi Flour/Kezhivaragu Mavu",
+		"Quantity":["0.5","1.0","1.5","2.0"],
+		"Weight":"Kg",
+		"Price":"0"
+},
+{
+		"Id":"I004",
+		"Type":"Ingredients",
+		"ImgUrl":"",
+		"Products":"அரிசி மாவு",
+		"Products_Desc":"Rice Flour/Arisi Maavu",
+		"Quantity":["0.5","1.0","1.5","2.0"],
+		"Weight":"Kg",
+		"Price":"0"
+},
+{
+		"Id":"I005",
+		"Type":"Ingredients",
+		"ImgUrl":"",
+		"Products":"ரவை",
+		"Products_Desc":"Rava",
+		"Quantity":["0.5","1.0","1.5","2.0"],
+		"Weight":"Kg",
+		"Price":"0"
+},
+{
+		"Id":"I006",
+		"Type":"Ingredients",
+		"ImgUrl":"",
+		"Products":"ராகி ",
+		"Products_Desc":"Ragi Whole/Kizhvaragu",
+		"Quantity":["0.5","1.0","1.5","2.0"],
+		"Weight":"Kg",
+		"Price":"0"
+},
+{
+		"Id":"I007",
+		"Type":"Ingredients",
+		"ImgUrl":"",
+		"Products":"ரவை",
+		"Products_Desc":"Rava",
+		"Quantity":["0.5","1.0","1.5","2.0"],
+		"Weight":"Kg",
+		"Price":"0"
+},
+{
+		"Id":"I008",
+		"Type":"Ingredients",
+		"ImgUrl":"",
+		"Products":"பாஸ்தா",
+		"Products_Desc":"Pasta",
+		"Quantity":["0.5","1.0","1.5","2.0"],
+		"Weight":"Kg",
+		"Price":"0"
+},
+{
+		"Id":"I009",
+		"Type":"Ingredients",
+		"ImgUrl":"",
+		"Products":"நூடுல்ஸ் ",
+		"Products_Desc":"Noodles/(YiPPee, MAGGI)",
+		"Quantity":["1","2","3","4"],
+		"Weight":"Pkt",
+		"Price":"0"
+},
+{
+		"Id":"I010",
+		"Type":"Ingredients",
+		"ImgUrl":"",
+		"Products":"அவல்",
+		"Products_Desc":"Poha/Avalakki/Aval",
+		"Quantity":["100","200","300","500"],
+		"Weight":"gm",
+		"Price":"0"
+},
+{
+		"Id":"I011",
+		"Type":"Ingredients",
+		"ImgUrl":"",
+		"Products":"ஜவ்வரிசி",
+		"Products_Desc":"Sabudana/Javvarisi",
+		"Quantity":["0.25","0.5","1.0","1.5","2.0"],
+		"Weight":"Kg",
+		"Price":"0"
+},
+{
+		"Id":"I012",
+		"Type":"Ingredients",
+		"ImgUrl":"",
+		"Products":"கடலை மாவு",
+		"Products_Desc":"Besan flour/Kadalai Mavu",
+		"Quantity":["0.5","1.0","1.5","2.0"],
+		"Weight":"Kg",
+		"Price":"0"
+},
+{
+		"Id":"I013",
+		"Type":"Ingredients",
+		"ImgUrl":"",
+		"Products":"சேமியா",
+		"Products_Desc":"Vermicelli",
+		"Quantity":["0.25","0.5","1.0","1.5","2.0"],
+		"Weight":"Kg",
+		"Price":"0"
+},
+{
+		"Id":"I014",
+		"Type":"Ingredients",
+		"ImgUrl":"",
+		"Products":"ராகி சேமியா",
+		"Products_Desc":"Ragi Vermicelli",
+		"Quantity":["0.5","1.0","1.5","2.0"],
+		"Weight":"Kg",
+		"Price":"0"
+},
+{
+		"Id":"I015",
+		"Type":"Ingredients",
+		"ImgUrl":"",
+		"Products":"சம்பா கோதுமை",
+		"Products_Desc":"Samba Wheat Rava",
+		"Quantity":["0.25","0.5","1.0","1.5","2.0"],
+		"Weight":"Kg",
+		"Price":"0"
+},
+{
+		"Id":"I016",
+		"Type":"Ingredients",
+		"ImgUrl":"",
+		"Products":"தினை",
+		"Products_Desc":"Foxtail/Thinai Millet",
+		"Quantity":["0.5","1.0","1.5","2.0"],
+		"Weight":"Kg",
+		"Price":"0"
+},
+{
+		"Id":"I017",
+		"Type":"Ingredients",
+		"ImgUrl":"",
+		"Products":"குதிரை வாலி",
+		"Products_Desc":"Kuthiraivali/Barnyard Millet",
+		"Quantity":["0.5","1.0","1.5","2.0"],
+		"Weight":"Kg",
+		"Price":"0"
+},
+{
+	"Id":"D001",
+	"Type":"Dhal",
+	"ImgUrl":"",
+	"Products":"உளுத்தம் பருப்பு",
+	"Products_Desc":"Urad Dal/Ulutham Parupu",
+	"Quantity":["0.5","1.0","1.5","2.0"],
+	"Weight":"Kg",
+	"Price":"0"
+},
+{
+	"Id":"D002",
+	"Type":"Dhal",
+	"ImgUrl":"",
+	"Products":"பாசி பருப்பு / சிறு பருப்பு",
+	"Products_Desc":"Moong Dal/Siru Paruppu/Payatham Parupu",
+	"Quantity":["0.5","1.0","1.5","2.0"],
+	"Weight":"Kg",
+	"Price":"0"
+},
+{
+	"Id":"D003",
+	"Type":"Dhal",
+	"ImgUrl":"",
+	"Products":"துவரம் பருப்பு",
+	"Products_Desc":"Toor Dal/Thuvaram Parupu",
+	"Quantity":["0.5","1.0","1.5","2.0"],
+	"Weight":"Kg",
+	"Price":"0"
+},
+{
+	"Id":"D004",
+	"Type":"Dhal",
+	"ImgUrl":"",
+	"Products":"வெள்ளை கொண்டைக்கடலை",
+	"Products_Desc":"Kabuli/Kondakadalai White",
+	"Quantity":["0.5","1.0","1.5","2.0"],
+	"Weight":"Kg",
+	"Price":"0"
+},
+{
+	"Id":"D005",
+	"Type":"Dhal",
+	"ImgUrl":"",
+	"Products":"கடலை பருப்பு",
+	"Products_Desc":"Chana Dal/Kadalai Parupu",
+	"Quantity":["0.5","1.0","1.5","2.0"],
+	"Weight":"Kg",
+	"Price":"0"
+},
+{
+	"Id":"D006",
+	"Type":"Dhal",
+	"ImgUrl":"",
+	"Products":"பச்சை பட்டாணி",
+	"Products_Desc":"Green peas",
+	"Quantity":["0.5","1.0","1.5","2.0"],
+	"Weight":"Kg",
+	"Price":"0"
+},
+{
+	"Id":"D007",
+	"Type":"Dhal",
+	"ImgUrl":"",
+	"Products":"மைசூர் பருப்பு",
+	"Products_Desc":"Masoor Dal/Massor Paruppu/Mysore Paruppu",
+	"Quantity":["0.5","1.0","1.5","2.0"],
+	"Weight":"Kg",
+	"Price":"0"
+},
+{
+	"Id":"D008",
+	"Type":"Dhal",
+	"ImgUrl":"",
+	"Products":"சோயா பீன்ஸ்",
+	"Products_Desc":"Soya Beans",
+	"Quantity":["0.5","1.0","1.5","2.0"],
+	"Weight":"Kg",
+	"Price":"0"
+},
+{
+	"Id":"D009",
+	"Type":"Dhal",
+	"ImgUrl":"",
+	"Products":"காராமணி",
+	"Products_Desc":"Red Lobia/Karamani",
+	"Quantity":["0.25","0.5","1.0","1.5","2.0"],
+	"Weight":"Kg",
+	"Price":"0"
+}
+	]	
+}

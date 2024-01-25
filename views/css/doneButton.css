@@ -1,0 +1,39 @@
+.main {
+    positive:relative;
+    margin: 20px auto;
+    height:auto;
+    width:200px;
+    margin-top:5%;
+  }
+  
+  button {
+      border: none;
+      background: #50623A;
+      color: #DBE7C9;
+      padding: 10px 35px;
+      font-size: 18px;
+      border-radius: 5px;
+      position: relative;
+      box-sizing: border-box;
+      transition: all 500ms ease; 
+    overflow:hidden
+  }
+  
+  button:before {
+      font-family: FontAwesome;
+      content:"\f217";
+      position: absolute;
+      top: 11px;
+      left: -30px;
+      transition: all 200ms ease;
+  }
+  
+  button:hover:before {
+      left: 7px;
+  }
+  
+  button:hover {
+    box-shadow: 1px 3px 8px #000;
+  }
+  
+  

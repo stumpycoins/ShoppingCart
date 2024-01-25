@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+      body {
+        font-family: 'Roboto', sans-serif;
+      }
+
+      * {
+        margin: 0;
+        padding: 0;
+      }
+
+      i {
+        margin-right: 10px;
+      }
+
+      /*------------------------*/
+      input:focus,
+      button:focus,
+      .form-control:focus {
+        outline: none;
+        box-shadow: none;
+      }
+
+      .form-control:disabled,
+      .form-control[readonly] {
+        background-color: #ffff;
+      }
+
+      .table tr,
+      .table tr td {
+        vertical-align: middle;
+      }
+
+      .button-container {
+        display: flex;
+        align-items: center;
+      }
+
+      .button-container .form-control {
+        max-width: 80px;
+        text-align: center;
+        display: inline-block;
+        margin: 0px 5px;
+      }
+
+      #myTable .form-control {
+        width: auto;
+        display: inline-block;
+      }
+
+      .img-prdct {
+        width: 50px;
+        height: 50px;
+        /* 	background-color: #5161ce; */
+        border-radius: 4px;
+      }
+
+      .img-prdct img {
+        width: 100%;
+      }
+
+      .table thead th {
+        border-bottom: 2px solid #212529;
+      }
+
+      .table td, .table th {
+        border-top: 1px solid #212529;
+    }
+
+    .container-fluid mt-5{
+      box-shadow: rgba(0, 0, 0, 0.5); 
+    }
